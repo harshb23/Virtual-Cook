@@ -1,6 +1,6 @@
 # Virtual-Cook
 
-<img src="/./assets/home.jpg" alt="Home Screen" width="480" height="800" />
+<img src="/./assets/home.jpg" alt="Home Screen" width="412" height="732" />
 
 <img src="https://github.com/harshb23/Virtual-Cook/tree/main/assets/recipes.jpg" width="300" height="600"/>
 
