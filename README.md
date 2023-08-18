@@ -1,8 +1,10 @@
 # Virtual-Cook
 
+<p float="left">
 <img src="/./assets/home.jpg" alt="Home Screen" width="412" height="732" />
 
 <img src="/./assets/recipes.jpg" alt="Home Screen" width="412" height="732" />
+</p>
 
 <img src="/./assets/filter.jpg" alt="Home Screen" width="412" height="732" />
 
