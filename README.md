@@ -2,22 +2,16 @@
 
 <img src="/./assets/home.jpg" alt="Home Screen" width="412" height="732" />
 
-<img src="https://github.com/harshb23/Virtual-Cook/tree/main/assets/recipes.jpg" width="300" height="600"/>
+<img src="/./assets/recipes.jpg" alt="Home Screen" width="412" height="732" />
 
-<img src="https://github.com/harshb23/Virtual-Cook/tree/main/assets/home.jpg)" width="480" height="800"/>
+<img src="/./assets/filter.jpg" alt="Home Screen" width="412" height="732" />
 
-![Alt text](/./assets/home.jpg?raw=true "Home Screen")
+<img src="/./assets/sort.jpg" alt="Home Screen" width="412" height="732" />
 
-![Alt text](/./assets/recipes.jpg?raw=true "Recipe Screen")
+<img src="/./assets/recipe-detail.jpg" alt="Home Screen" width="412" height="732" />
 
-![Alt text](/./assets/filter.jpg?raw=true "Filter Dialog")
+<img src="/./assets/share.jpg" alt="Home Screen" width="412" height="732" />
 
-![Alt text](/./assets/sort.jpg?raw=true "Sort Dialog")
+<img src="/./assets/favourite.jpg" alt="Home Screen" width="412" height="732" />
 
-![Alt text](/./assets/recipe-detail.jpg?raw=true "Recipe Details Screen")
-
-![Alt text](/./assets/share.jpg?raw=true "Share Screen")
-
-![Alt text](/./assets/favourite.jpg?raw=true "Favourite Screen")
-
-![Alt text](/./assets/settings.jpg?raw=true "Settings Screen")
+<img src="/./assets/settings.jpg" alt="Home Screen" width="412" height="732" />
